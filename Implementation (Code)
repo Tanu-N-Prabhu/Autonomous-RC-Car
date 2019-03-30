@@ -4,7 +4,6 @@ AF_DCMotor motor2(2);
 
 const int trigPin =9;
 const int echoPin =10;
-bool debugOn = true; 
 
 long duration;
 int distance;
