@@ -14,6 +14,7 @@ This project demonstrates building an autonomous RC car.
 6. LED for the brake lights.
 7. Massive amount of batteries.
 
+<h3> Contributors </h3>
+I am the only contributor for this project. My name is Tanu Nanda Prabhu, I am fascinated about cars, also I am a car freak, Hence I chose this project which makes me happy. Contact me at @ tanuprabhu96@gmail.com
 
-
-
+<h3>NOTE: Don't Copy or else I'll grab your coockies.</h3>
