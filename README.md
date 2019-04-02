@@ -1,7 +1,7 @@
 # Autonomous-RC-Car
 This project demonstrates building an autonomous RC car.
 <h2>The front view of my RC car</h2>
-<img src="Images/Img1.jpg"  width="800" height="500">
+<img src="Images/Img1.jpg"  width="800" height="600">
 <h2> The side view of my RC car</h2>
  <img src="Images/Img2.jpg"  width="800" height="500">
 
