@@ -35,5 +35,7 @@ void loop()
 
   Serial.print("Distance:");
   Serial.println(distance);
+  
+  // This is the spot for the motors to show their magic.
 
 }
