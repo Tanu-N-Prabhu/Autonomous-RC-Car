@@ -11,7 +11,7 @@ __Here's where you'll provide a map of all the top-level contents (where applica
 1. __/src__ - This is where you can see all the coding stuff (.ino).
 2. __/hardware__ - You can see all  the PCB design files here (.ftz, .brd, .sch, .stl).
 3. __/libraries__ - This is the place where you can see the relevant library of the project.
-4. __/img__ - This is where the image files for this readme are..
+4. __/Images__ - This is where the image files for this readme are..
 5. __README.md__ - The file you're reading now! :-D
 
 <h2> The materials required for this project are as follows.</h2>
