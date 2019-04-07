@@ -37,5 +37,13 @@ void loop()
   Serial.println(distance);
   
   // This is the spot for the motors to show their magic.
+  if(distance <= 30)
+  {
+    //Motor should stop.
+  }
+  else
+  {
+        // Motor should go front and take a left or right turn.
+  }
 
 }
