@@ -16,13 +16,14 @@ __Here's where you'll provide a map of all the top-level contents (where applica
 
 <h2> The materials required for this project are as follows.</h2>
 
-1. RC Car
-2. Ultrasonic Sensor.
-3. Ada-fruit Motor Shield L239D.
-4. Servo.
-5. LCD. 
-6. LED for the brake lights.
-7. Massive amount of batteries.
+1. 1 x RC Car
+2. 1 x Ultrasonic Sensor.
+3. 1 x Ada-fruit Motor Shield L239D.
+4. 1 xLCD. 
+5. 4 x LED for the brake lights.
+6. 2 x Battery holders.
+7. 2 x Bread board for placement of Arduino Uno and Ultrasonic sensor.
+8. Massive amount of batteries (10 Volts).
 
 <h3> Contributors </h3>
 I am the only contributor for this project. My name is Tanu Nanda Prabhu, I am fascinated about cars, also I am a car freak, Hence I chose this project which makes me happy. Contact me at @ tanuprabhu96@gmail.com
