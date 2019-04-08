@@ -40,10 +40,67 @@ void loop()
   if(distance <= 30)
   {
     //Motor should stop.
+    stoped();
   }
   else
   {
-        // Motor should go front and take a left or right turn.
+      // Motor should go front and take a left or right turn.
+      left();
+      straight();
+      delay(1000);
+      motor2.setSpeed(90);
+      motor2.run(FORWARD);
+      right();
+      delay(1000);
+      leftStoped();
+      left();
+      right();
+      delay(100);
+      stoped();
   }
+  
+void stoped() 
+{
+      motor1.run(RELEASE);
+      motor2.run(RELEASE);
+      delay(500);
+}
+  
+ void leftStoped()
+{
+  motor2.run(RELEASE);
+  delay(200);
+}
+  
+void left() 
+{
+     motor2.setSpeed(255);
+     motor2.run(BACKWARD);
+     delay(500);
+}
 
+void leftStraight()
+{
+   motor2.run(RELEASE);
+   delay(500);
+}
+  
+void right() 
+{
+      motor2.run(FORWARD);
+      motor.setSpeed(255);  
+      delay(60);
+}
+
+void straight()
+{
+    motor1.run(FORWARD);
+    delay(50);
+}
+  
+void back()
+{
+  motor1.run(BACKWARD);
+  delay(300);
+}
 }
