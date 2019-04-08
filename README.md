@@ -26,8 +26,7 @@ __Here's where you'll provide a map of all the top-level contents (where applica
 8. Massive amount of batteries (10 Volts).
 
 <h3> Contributors </h3>
-The build consists of:
-1.__Tanu Nanda Prabhu__: I did everything. I am the only contributor for this project. My name is Tanu Nanda Prabhu, I am fascinated about cars, also I am a car freak, Hence I chose this project which makes me happy. Contact me at @ tanuprabhu96@gmail.com
+1. __Tanu Nanda Prabhu__ : I did everything. I am the only contributor for this project. My name is Tanu Nanda Prabhu, I am fascinated about cars, also I am a car freak, Hence I chose this project which makes me happy. Contact me at @ tanuprabhu96@gmail.com
 
 <h3>Update: The battery problem is somehow solved !!!!, Next part is to control the steering accordingly.</h3>
 
