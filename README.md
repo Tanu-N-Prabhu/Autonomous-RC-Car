@@ -14,7 +14,11 @@ __Here's where you'll provide a map of all the top-level contents (where applica
 4. __/Images__ - This is where the image files for this readme are..
 5. __README.md__ - The file you're reading now! :-D
 
-<h2> The materials required for this project are as follows.</h2>
+# Requirements and Materials
+<h4> Libraries required for the project are </h4>
+ 1. <b>ADAFRUIT MOTOR-SHIELD_LIBRARY</b> : (https://github.com/adafruit/Adafruit-Motor-Shield-library/zipball/master)
+
+<h4> The materials required for this project are as follows.</h2>
 
 1. 1 x RC Car
 2. 1 x Ultrasonic Sensor.
@@ -26,7 +30,7 @@ __Here's where you'll provide a map of all the top-level contents (where applica
 8. Massive amount of batteries (10 Volts).
 
 <h3> Contributors </h3>
-1. __Tanu Nanda Prabhu__ : I did everything. I am the only contributor for this project. My name is Tanu Nanda Prabhu, I am fascinated about cars, also I am a car freak, Hence I chose this project which makes me happy. Contact me at @ tanuprabhu96@gmail.com
+1. <b>Tanu Nanda Prabhu</b> - I did everything. I am the only contributor for this project, I am fascinated about cars, also I am a car freak, Hence I chose this project which makes me happy. Contact me at @ tanuprabhu96@gmail.com
 
 <h3>Update: The battery problem is somehow solved !!!!, Next part is to control the steering accordingly.</h3>
 
