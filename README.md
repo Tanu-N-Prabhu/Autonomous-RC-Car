@@ -16,7 +16,7 @@ __Here's where you'll provide a map of all the top-level contents (where applica
 
 # Requirements and Materials
 <h4> Libraries required for the project are </h4>
- 1. <b>ADAFRUIT MOTOR-SHIELD_LIBRARY</b> : (https://github.com/adafruit/Adafruit-Motor-Shield-library/zipball/master)
+ <b>1. ADAFRUIT MOTOR-SHIELD LIBRARY</b> : (https://github.com/adafruit/Adafruit-Motor-Shield-library/zipball/master)
 
 <h4> The materials required for this project are as follows.</h2>
 
