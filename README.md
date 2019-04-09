@@ -22,14 +22,13 @@ __Here's where you'll provide a map of all the top-level contents (where applica
 
 1. 1 x RC Car
 2. 1 x Ultrasonic Sensor.
-3. 1 x Ada-fruit Motor Shield L239D.
-4. 1 xLCD. 
-5. 3 x LED for the brake lights.
-6. 2 x Battery holders.
-7. 2 x Bread board for placement of Arduino Uno and Ultrasonic sensor.
-8  3 x 100k resistor
-9. 10 x AA Massive amount of batteries (10 Volts).
-10. 1 x Push-Button if needed
+3. 1 x Ada-fruit Motor Shield L239D. 
+4. 3 x LED for the brake lights.
+5. 2 x Battery holders.
+6. 2 x Bread board for placement of Arduino Uno and Ultrasonic sensor.
+7  3 x 100k resistor
+8. 10 x AA Massive amount of batteries (10 Volts).
+9. 1 x Push-Button if needed.
 
 <h3> Contributors </h3>
 1. <b>Tanu Nanda Prabhu</b> - I did everything. I am the only contributor for this project, I am fascinated about cars, also I am a car freak, Hence I chose this project which makes me happy. Contact me at @ tanuprabhu96@gmail.com
