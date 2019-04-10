@@ -12,7 +12,8 @@ __Here's where you'll provide a map of all the top-level contents (where applica
 2. __/hardware__ - You can see all  the PCB design files here (.ftz, .brd, .sch, .stl).
 3. __/libraries__ - This is the place where you can see the relevant library of the project.
 4. __/Images__ - This is where the image files for this readme are..
-5. __README.md__ - The file you're reading now! :-D
+5. __/Modules__ - This is the place where the code is divided into segments, for better understanding.
+6. __/README.md__ - The file you're reading now! :-D
 
 # Requirements and Materials
 <h4> Libraries required for the project are </h4>
