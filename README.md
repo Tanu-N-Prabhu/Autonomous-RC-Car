@@ -32,8 +32,8 @@ __Here's where you'll provide a map of all the top-level contents (where applica
 9. 1 x Push-Button if needed.
 <h3> Installing Arduino Software </h3>
 1. You can download the IDE from here : (https://www.arduino.cc/en/main/software).
-
 2. After you install the IDE click here to learn more about it : (https://www.arduino.cc/en/Guide/HomePage).
+
 <h3> Usage </h3>
 
 1. Insert the batteries to the car.
