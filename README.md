@@ -31,6 +31,13 @@ __Here's where you'll provide a map of all the top-level contents (where applica
 8. 10 x AA Massive amount of batteries (10 Volts).
 9. 1 x Push-Button if needed.
 
+<h3> Usage </h3>
+
+1. Insert the batteries to the car.
+2. Power them up connecting the wires.
+3. Place the car on the ground.
+4. Rest the car will do its thing on the ground.
+
 <h3> Contributors </h3>
 1. <b>Tanu Nanda Prabhu</b> - I did everything. I am the only contributor for this project, I am fascinated about cars, also I am a car freak, Hence I chose this project which makes me happy. Contact me at @ tanuprabhu96@gmail.com
 
