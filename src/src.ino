@@ -49,18 +49,13 @@ void loop()
   else
   {
       // Motor should go front and take a left or right turn.
-      left();
-      straight();
-      delay(1000);
-      motor2.setSpeed(90);
-      motor2.run(FORWARD);
-      right();
-      delay(1000);
-      leftStoped();
-      left();
-      right();
-      delay(100);
-      stoped();
+    motor1.run(RELEASE);
+    motor2.run(FORWARD);
+    motor1.run(BACKWARD);
+    delay (1000);
+    motor2.run(RELEASE);
+    motor1.run(RELEASE);
+    delay (2000);
   }
   
 void stoped() 
