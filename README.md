@@ -4,6 +4,11 @@ This project demonstrates building an autonomous RC car.
 <img src="Images/Img1.jpg"  width="800" height="600">
 <h2> The side view of my RC car</h2>
  <img src="Images/Img2.jpg"  width="800" height="500">
+ 
+ # Build Instructions
+ 
+ The breadboard view gives you a strong clarity of how different components are connected together, by looking at this you can aslo build similar design for your project.
+ 
  <img src="Images/Fritzing1_bb.jpg"  width="800" height="500">
 
 # I am tweaking the existing Radio Controlled Car to be an autonomously driven car.
