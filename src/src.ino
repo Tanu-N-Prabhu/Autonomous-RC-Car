@@ -8,6 +8,7 @@ const int echoPin =10;
 long duration;
 int distance;
 int turnDelay = 2000; 
+bool debugOn = true; 
 
 void setup()
 {
@@ -39,18 +40,31 @@ void loop()
   Serial.print("Distance:");
   Serial.println(distance);
   
-  // This is the spot for the motors to show their magic.
-  if(distance <= 30)
-  {
-    //Motor should stop.
-    stoped();
-    brakeLight();
-  }
+  if(debugOn){
+  
+    left();
+    straight();
+    delay(1000);
+    motor2.setSpeed(90);
+    motor2.run(FORWARD);
+    right();
+    delay(1000);
+    leftStoped();
+    left();
+    
+    
+   right();
+   delay(100);
+   stoped();
+}
   else
   {
-      // Motor should go front and take a left or right turn.
-    
+    stoped();
+    left();
+  straight();
   }
+}
+
   
 void stoped() 
 {
