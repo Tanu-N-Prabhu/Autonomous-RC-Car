@@ -21,6 +21,13 @@ __Here's where you'll provide a map of all the top-level contents (where applica
 5. __/Modules__ - This is the place where the code is divided into segments, for better understanding.
 6. __/README.md__ - The file you're reading now! :-D
 
+# Block Diagram
+
+Here is the block diagram of this project which depicts all the components connected together. With the help of this the user can understand the connection of the components.
+
+ <img src="Images/Block_Diagram.jpg"  width="800" height="500">
+
+
 # Requirements and Materials
 <h4> Libraries required for the project are </h4>
  <b>1. ADAFRUIT MOTOR-SHIELD LIBRARY</b> : (https://github.com/adafruit/Adafruit-Motor-Shield-library/zipball/master)
