@@ -49,6 +49,12 @@ Here is the block diagram of this project which depicts all the components conne
 
 <h3> Usage </h3>
 
+1). Upload the code to the Arduino.
+2). Power both the Arduino and the Motor-shield via batteries.
+3). Then the car moves to the front automatically, it then stops if it finds an obstacle, and then goes back for a bit, and then turns to the left and again checks for the obstacle, otherwise, it turns to the right this time and further continues to go in the same       direction.
+4). This would be cool to watch because it automatically does all these things by itself.
+5). Last, don’t forget to remove the batteries from the battery holder, sometimes both the Arduino and the Motor-Shield can become really hot after an immense usage.
+
 
 <h3> Contributors </h3>
 1. <b>Tanu Nanda Prabhu</b> - I did everything. I am the only contributor for this project, I am fascinated about cars, also I am a car freak, Hence I chose this project which makes me happy. Contact me at @ tanuprabhu96@gmail.com
