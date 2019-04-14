@@ -24,6 +24,8 @@ __Here's where you'll provide a map of all the top-level contents (where applica
 
 Here is the block diagram of this project which depicts all the components connected together. With the help of this the user can understand the connection of the components.
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
  <img src="Images/Block_Diagram.jpg">
 
 
