@@ -9,7 +9,7 @@ This project demonstrates building an autonomous RC car.
  
  The breadboard view gives you a strong clarity of how different components are connected together, by looking at this you can aslo build similar design for your project.
  
- <img src="Images/Final.jpg"  width="800" height="500">
+![alt text](https://github.com/Tanu-N-Prabhu/Autonomous-RC-Car/blob/master/Images/Final.jpg)
 
 # Repository Contents
 __Here's where you'll provide a map of all the top-level contents (where applicable):__
