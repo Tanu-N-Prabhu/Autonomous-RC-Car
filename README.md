@@ -9,7 +9,7 @@ This project demonstrates building an autonomous RC car.
  
  The breadboard view gives you a strong clarity of how different components are connected together, by looking at this you can aslo build similar design for your project.
  
- <img src="Images/Fritzing1_bb.jpg"  width="800" height="500">
+ <img src="Images/Final.jpg"  width="800" height="500">
 
 # Repository Contents
 __Here's where you'll provide a map of all the top-level contents (where applicable):__
@@ -24,7 +24,7 @@ __Here's where you'll provide a map of all the top-level contents (where applica
 
 Here is the block diagram of this project which depicts all the components connected together. With the help of this the user can understand the connection of the components.
 
- <img src="Images/Block_Diagram.jpg"  width="800" height="500">
+ <img src="Images/Block_Diagram.jpg">
 
 
 # Requirements and Materials
