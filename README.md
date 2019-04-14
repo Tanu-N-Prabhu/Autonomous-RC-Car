@@ -59,7 +59,7 @@ Here is the block diagram of this project which depicts all the components conne
 <h3> Contributors </h3>
 1. <b>Tanu Nanda Prabhu</b> - I did everything. I am the only contributor for this project, I am fascinated about cars, also I am a car freak, Hence I chose this project which makes me happy. Contact me at @ tanuprabhu96@gmail.com
 
-<h3>Update: The battery problem is somehow solved !!!!, Next part is to control the steering accordingly.</h3>
+<h3>Update: The battery problem is somehow solved !!!!, The differential steering problem is solved successfully.</h3>
 
 <h3>NOTE: Don't Copy or else I'll grab your cookies.</h3>
 
