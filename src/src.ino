@@ -40,7 +40,8 @@ void loop()
   Serial.print("Distance:");
   Serial.println(distance);
   
-  if(debugOn){
+  if(distance > 30)
+  {
   
     left();
     straight();
