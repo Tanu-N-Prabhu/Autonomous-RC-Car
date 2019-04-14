@@ -46,7 +46,7 @@ Here is the block diagram of this project which depicts all the components conne
 1. You can download the IDE from here : (https://www.arduino.cc/en/main/software).
 2. After you install the IDE click here to learn more about it : (https://www.arduino.cc/en/Guide/HomePage).
 
-<h3> Usage </h3>
+<h4> Usage </h4>
 
 1. Upload the code to the Arduino.
 2. Power both the Arduino and the Motor-shield via batteries.
