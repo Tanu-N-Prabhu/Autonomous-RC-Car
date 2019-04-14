@@ -11,7 +11,6 @@ This project demonstrates building an autonomous RC car.
  
  <img src="Images/Fritzing1_bb.jpg"  width="800" height="500">
 
-# I am tweaking the existing Radio Controlled Car to be an autonomously driven car.
 # Repository Contents
 __Here's where you'll provide a map of all the top-level contents (where applicable):__
 1. __/src__ - This is where you can see all the coding stuff (.ino).
