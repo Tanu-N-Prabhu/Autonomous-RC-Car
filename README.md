@@ -61,5 +61,4 @@ Here is the block diagram of this project which depicts all the components conne
 
 <h3>Update: The battery problem is somehow solved !!!!, The differential steering problem is solved successfully.</h3>
 
-<h3>NOTE: Don't Copy or else I'll grab your cookies.</h3>
 
