@@ -44,7 +44,9 @@ Here is the block diagram of this project which depicts all the components conne
 8. 10 x AA Massive amount of batteries (10 Volts).
 9. 1 x Push-Button if needed.
 <h3> Installing Arduino Software </h3>
+
 1. You can download the IDE from here : (https://www.arduino.cc/en/main/software).
+
 2. After you install the IDE click here to learn more about it : (https://www.arduino.cc/en/Guide/HomePage).
 
 <h4> Usage </h4>
