@@ -27,7 +27,7 @@ void setup(){
 
 void loop()
 {
- brakeLights();
+  brakeLights();
   motor1.run(FORWARD);
   int duration, distance;
   digitalWrite(trigPin, HIGH);
@@ -65,5 +65,16 @@ void loop()
   }
 }
 
- 
+void brakeLights()
+{
+  digitalWrite(led1, HIGH);
+  digitalWrite(led2, HIGH);   
+  digitalWrite(led3, HIGH);  
+  delay(80); 
+  
+  digitalWrite(led1, LOW);
+  digitalWrite(led2, LOW);
+  digitalWrite(led3, LOW);
+  delay(80);
+}
           
