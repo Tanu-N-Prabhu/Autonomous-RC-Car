@@ -28,7 +28,7 @@ __Here's where you'll provide a map of all the top-level contents (where applica
 Here is the block diagram of this project which depicts all the components connected together. With the help of this the user can understand the connection of the components.
 
 
- <img src="Images/Block Diagram.jpg">
+ <img src="Images/Block.PNG">
 
 
 # Requirements and Materials
