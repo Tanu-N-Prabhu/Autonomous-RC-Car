@@ -3,7 +3,10 @@ In this project, the old radio-controlled car will be made autonomous by adding 
 <img src="Images/Front_View.jpg"  width="800" height="500">
 <h2> The side view of my RC car</h2>
  <img src="Images/Side_View.jpg"  width="800" height="500">
- 
+ <h2> The motor-shield</h2>
+
+  <img src="Images/Motor_shield.jpg"  width="800" height="700">
+
  # Build Instructions
  
  The breadboard view gives you a strong clarity of how different components are connected together, by looking at this you can aslo build similar design for your project.
