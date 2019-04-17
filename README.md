@@ -46,13 +46,14 @@ Here is the block diagram of this project which depicts all the components conne
 7  3 x 100k resistor
 8. 10 x AA Massive amount of batteries (10 Volts).
 9. 1 x Push-Button if needed._
-<h3> Installing Arduino Software </h3>
+
+# Installing Arduino Software
 
 1. You can download the IDE from here : (https://www.arduino.cc/en/main/software).
 
 2. After you install the IDE click here to learn more about it : (https://www.arduino.cc/en/Guide/HomePage).
 
-<h4> Usage </h4>
+# Usage
 
 1. Upload the code to the Arduino.
 2. Power both the Arduino and the Motor-shield via batteries.
@@ -61,9 +62,9 @@ Here is the block diagram of this project which depicts all the components conne
 5. Last, don’t forget to remove the batteries from the battery holder, sometimes both the Arduino and the Motor-Shield can become really hot after an immense usage.
 
 
-<h3> Contributors </h3>
+# Contributors
 1. <b>Tanu Nanda Prabhu</b> - I did everything. I am the only contributor for this project, I am fascinated about cars, also I am a car freak, Hence I chose this project which makes me happy. Contact me at @ tanuprabhu96@gmail.com
 
-<h3>Update: The battery problem is somehow solved !!!!, The differential steering problem is solved successfully.</h3>
-
+# Credits
+1. Trevor Michael Tomesh: consultation on directory structure
 
