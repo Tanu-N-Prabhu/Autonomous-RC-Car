@@ -12,6 +12,8 @@ In this project, the old radio-controlled car will be made autonomous by adding 
  
 ![alt text](https://github.com/Tanu-N-Prabhu/Autonomous-RC-Car/blob/master/Images/Final.jpg)
 
+![alt text](https://github.com/Tanu-N-Prabhu/Autonomous-RC-Car/blob/master/Images/Circuit.jpg)
+There is no need to solder any wire or component. Motor-shield comprises screws which need to be tightened after connecting the wires. But we must be careful that all the pins of the motor-shield must coincide with that of the Arduino pins, else the motor-shield would be burnt or doesn’t function properly
 # Repository Contents
 __Here's where you'll provide a map of all the top-level contents (where applicable):__
 1. __/src__ - This is where you can see all the coding stuff (.ino).
