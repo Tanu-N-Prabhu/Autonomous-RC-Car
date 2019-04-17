@@ -4,7 +4,7 @@ In this project, the old radio-controlled car will be made autonomous by adding 
 <h2> The side view of my RC car</h2>
  <img src="Images/Side_View.jpg"  width="800" height="500">
  <h2> The motor-shield along with the batteries</h2>
-  <img src="Images/Motor_shield1.jpg"  width="800" height="700">
+  <img src="Images/Motor_shield1.jpg"  width="800" height="500">
 
  # Build Instructions
  
