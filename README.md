@@ -1,6 +1,5 @@
 # Autonomous-RC-Car
-This project demonstrates building an autonomous RC car.
-<h2>The front view of my RC car</h2>
+In this project, the old radio-controlled car will be made autonomous by adding an ultrasonic sensor to it. This ultrasonic sensor helps in avoiding obstacles in front of the car by emitting ultrasonic sound waves. This autonomous car detects the obstacle and avoids collision by changing its direction of movement. The ultrasonic sensor sends the data to the Arduino micro-controller and then the micro-controller with the help of a motor-shield controls the movements of the wheels via DC motors<h2>The front view of my RC car</h2>
 <img src="Images/Img1.jpg"  width="800" height="600">
 <h2> The side view of my RC car</h2>
  <img src="Images/Img2.jpg"  width="800" height="500">
