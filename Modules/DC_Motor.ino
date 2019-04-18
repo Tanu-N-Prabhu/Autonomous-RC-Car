@@ -31,12 +31,15 @@ void stopped()
 
 void left() 
 {
+
+     motor1.setSpeed(255);
      motor2.run(BACKWARD);
      delay(500);
 }
 
 void right() 
 {
+      motor1.setSpeed(255);
       motor2.run(FORWARD);
       delay(500);
 }
@@ -57,4 +60,17 @@ void reverse()
   
 }
 
+void left_align()
+{
+    left();
+    motor2.setSpeed(90);
+    motor2.run(FORWARD);
+}
+
+void right_align()
+{
+    right();
+    motor2.setSpeed(90);
+    motor2.run(BACKWARD);
+}
 Credits: https://learn.adafruit.com/adafruit-motor-shield/using-dc-motors
