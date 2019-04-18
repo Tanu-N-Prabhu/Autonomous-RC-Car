@@ -42,6 +42,7 @@ This is the best library when it comes to operating DC motors via motor-shield.
 8  3 x 100k resistor
 9. 10 x AA batteries (10 Volts).
 
+
 # Installing Arduino Software
 
 1. You can download the IDE from here : (https://www.arduino.cc/en/main/software).
