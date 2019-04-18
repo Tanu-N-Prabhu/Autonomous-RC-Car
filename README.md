@@ -8,6 +8,10 @@ In this project, the old radio-controlled car made autonomous by adding an ultra
 
  # Build Instructions
  
+ Here is the block diagram of this project which depicts all the components connected together. With the help of this the user can understand the connection of the components.
+
+
+ <img src="Images/Block.PNG">
  The breadboard view gives you a strong clarity of how different components are connected together, by looking at this you can aslo build similar design for your project.
  
 ![alt text](https://github.com/Tanu-N-Prabhu/Autonomous-RC-Car/blob/master/Images/Final.jpg)
@@ -20,13 +24,6 @@ __Here is a map of all the top-level contents listed in the repository:__
 2. __/Modules__ - This is where the image files for this readme are..
 3. __/src__ - This is the place where the code is divided into segments, for better understanding.
 4. __/README.md__ - This is the file you're reading now! :-D
-
-# Block Diagram
-
-Here is the block diagram of this project which depicts all the components connected together. With the help of this the user can understand the connection of the components.
-
-
- <img src="Images/Block.PNG">
 
 
 # Requirements and Materials
