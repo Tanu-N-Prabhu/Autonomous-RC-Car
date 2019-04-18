@@ -16,11 +16,10 @@ In this project, the old radio-controlled car will be made autonomous by adding 
 There is no need to solder any wire or component. Motor-shield comprises screws which need to be tightened after connecting the wires. But we must be careful that all the pins of the motor-shield must coincide with that of the Arduino pins, else the motor-shield would be burnt or doesn’t function properly
 # Repository Contents
 __Here's where you'll provide a map of all the top-level contents (where applicable):__
-1. __/src__ - This is where you can see all the coding stuff (.ino).
-2. __/libraries__ - This is the place where you can see the relevant library of the project.
-3. __/Images__ - This is where the image files for this readme are..
-4. __/Modules__ - This is the place where the code is divided into segments, for better understanding.
-5. __/README.md__ - The file you're reading now! :-D
+1. __/Images__ - This is where you can see all the coding stuff (.ino).
+2. __/Modules__ - This is where the image files for this readme are..
+3. __/src__ - This is the place where the code is divided into segments, for better understanding.
+4. __/README.md__ - This is the file you're reading now! :-D
 
 # Block Diagram
 
@@ -33,18 +32,18 @@ Here is the block diagram of this project which depicts all the components conne
 # Requirements and Materials
 <h4> Libraries required for the project are </h4>
  <b>1. ADAFRUIT MOTOR-SHIELD LIBRARY</b> : (https://github.com/adafruit/Adafruit-Motor-Shield-library/zipball/master)
-
+This is the best library when it comes to operating DC motors via motor-shield.
 <h4> The materials required for this project are as follows.</h2>
 
 1. 1 x RC Car
 2. 1 x Ultrasonic Sensor.
-3. 1 x Ada-fruit Motor Shield L239D. 
-4. 3 x LED for the brake lights.
-5. 2 x Battery holders.
-6. 2 x Bread board for placement of Arduino Uno and Ultrasonic sensor.
-7  3 x 100k resistor
-8. 10 x AA Massive amount of batteries (10 Volts).
-9. 1 x Push-Button if needed._
+3. 1 x Arduino UNO
+4. 1 x Ada-fruit Motor Shield L239D. 
+5. 3 x LED for the brake lights.
+6. 2 x Battery holders.
+7. 2 x Bread board for placement of Arduino Uno and Ultrasonic sensor.
+8  3 x 100k resistor
+9. 10 x AA batteries (10 Volts).
 
 # Installing Arduino Software
 
