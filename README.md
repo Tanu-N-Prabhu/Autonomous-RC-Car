@@ -28,7 +28,8 @@ __Here is a map of all the top-level contents listed in the repository:__
 
 # Requirements and Materials
 <h4> Libraries required for the project are </h4>
- <b>1. ADAFRUIT MOTOR-SHIELD LIBRARY</b> : (https://github.com/adafruit/Adafruit-Motor-Shield-library/zipball/master)
+ <b>1. ADAFRUIT MOTOR-SHIELD LIBRARY</b> : (https://github.com/adafruit/Adafruit-Motor-Shield-library/zipball/master).
+ 
 This is the best library when it comes to operating DC motors via motor-shield.
 <h4> The materials required for this project are as follows.</h2>
 
