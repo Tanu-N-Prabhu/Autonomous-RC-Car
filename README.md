@@ -20,9 +20,9 @@ In this project, the old radio-controlled car made autonomous by adding an ultra
 There is no need to solder any wire or component. Motor-shield comprises screws which need to be tightened after connecting the wires. But we must be careful that all the pins of the motor-shield must coincide with that of the Arduino pins, else the motor-shield would be burnt or doesn’t function properly
 # Repository Contents
 __Here is a map of all the top-level contents listed in the repository:__
-1. __/Images__ - This is where you can see all the coding stuff (.ino).
-2. __/Modules__ - This is where the image files for this readme are..
-3. __/src__ - This is the place where the code is divided into segments, for better understanding.
+1. __/Images__ - This is where the image files for this readme are.
+2. __/Modules__ - This is the place where the code is divided into segments, for better understanding.
+3. __/src__ - This is where you can see all the coding stuff (.ino).
 4. __/README.md__ - This is the file you're reading now! :-D
 
 
