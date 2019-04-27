@@ -63,5 +63,5 @@ This is the best library when it comes to operating DC motors via motor-shield.
 1. <b>Tanu Nanda Prabhu</b> - I did everything. I am the only contributor for this project, I am fascinated about cars, also I am a car freak, Hence I chose this project which makes me happy. Contact me at @ tanuprabhu96@gmail.com
 
 # Credits
-1. Trevor Michael Tomesh: consultation on directory structure.
+1. Trevor Michael Tomesh: consultation on directory structure
 
